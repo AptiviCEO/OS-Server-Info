@@ -1,0 +1,10 @@
+name: EoflaServerOS
+version: 1.0.0
+author: EoflaOE
+api: 3.0.0
+main: eofla\osserver\main
+commands:
+ os:
+  description: "Returns the OS the server is using."
+  usage: "/os"
+  permission: eofla.osreturn
