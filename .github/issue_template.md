@@ -13,11 +13,17 @@
 ## Your Server Info:
 
 Server OS: 
+
 PocketMine-MP Version:
+
 PocketMine-MP Commit: 
+
 Plugin version:
+
 Plugin Commit:
+
 Server hoster (if any): 
+
 
 ## Extra details:
 
