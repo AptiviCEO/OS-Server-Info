@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+.:< OS-Server-Get >:.
 
-You can use the [editor on GitHub](https://github.com/EoflaOE/OS-Server-Info/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+-> OS-Server-Get is the first plugin from EoflaOE which only staff members on the server can do /os in order to see what OS you have installed to your server, version, etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-> This plugin is in the stage of Work-In-Progress so you would not get what you have expected from. It does not give accurate results only from: Server OS.
 
-### Markdown
+-> This plugin uses php_uname() in order to bring interest to this plugin for Linux Users.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-> You can contribute this project under the terms written in CONTRIBUTING.md file.
 
-```markdown
-Syntax highlighted code block
+>------------< Known bugs >------------<
 
-# Header 1
-## Header 2
-### Header 3
+-> After doing /os, you see the message: Usage: /os then the command continues.
 
-- Bulleted
-- List
+-> When the server is hosted from Android, /os thinks that the server is hosted from Linux.
 
-1. Numbered
-2. List
+>------------< Commands >------------<
 
-**Bold** and _Italic_ and `Code` text
+-> /os: Returns the OS info from the server.
 
-[Link](url) and ![Image](src)
-```
+-> No usages. Just run /os!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EoflaOE/OS-Server-Info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
