@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/EoflaOE/OS-Server-Info
+branches:
+- master
+projects:
+  OS-Server-Info:
+    path: ""
+...
