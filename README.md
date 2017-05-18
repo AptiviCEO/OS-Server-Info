@@ -1,6 +1,6 @@
 # .:< OS-Server-Get >:.
 
-[Build status](https://poggit.pmmp.io/ci.badge/EoflaOE/OS-Server-Info/OS-Server-Info)
+[![Poggit-CI](https://poggit.pmmp.io/ci.badge/EoflaOE/OS-Server-Info/OS-Server-Info)](https://poggit.pmmp.io/ci/EoflaOE/OS-Server-Info/OS-Server-Info)
 
 -> OS-Server-Get is the first plugin from EoflaOE which only staff members on the server can do /os in order to see what OS you have installed to your server, version, etc.
 
