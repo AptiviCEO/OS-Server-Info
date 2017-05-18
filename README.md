@@ -1,5 +1,7 @@
 # .:< OS-Server-Get >:.
 
+[Build status](https://poggit.pmmp.io/ci.badge/EoflaOE/OS-Server-Info/OS-Server-Info)
+
 -> OS-Server-Get is the first plugin from EoflaOE which only staff members on the server can do /os in order to see what OS you have installed to your server, version, etc.
 
 -> This plugin is in the stage of Work-In-Progress so you would not get what you have expected from. It does not give accurate results only from: Server OS.
