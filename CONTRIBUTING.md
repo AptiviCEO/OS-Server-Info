@@ -6,7 +6,7 @@
 
 1. Always test your code _BEFORE_ you submit your pull request!
 2. Never put in malicious codes in your fork!
-3. Who fixes the build bugs will be a member.
+3. Who fixes the build bugs and making 20 Pull Requests without one of them being closed will be a member.
 4. Rest of the additions, modifications, deletions and fixes will be a contributor.
 
 #### Issue tracker:
