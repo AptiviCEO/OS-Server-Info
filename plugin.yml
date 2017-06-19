@@ -6,5 +6,4 @@ main: eofla\osserver\main
 commands:
  os:
   description: "Returns the OS the server is using."
-  usage: "/os"
   permission: eofla.osreturn
