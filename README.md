@@ -16,7 +16,7 @@
 
 ## --< Known bugs >--
 
--> After doing /os, you see the message: Usage: /os then the command continues.
+-> After doing /os, you see the message: Usage: /os then the command continues. Fixed by @Enrick3344
 
 -> When the server is hosted from Android, /os thinks that the server is hosted from Linux.
 
