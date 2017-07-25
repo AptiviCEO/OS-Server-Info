@@ -27,7 +27,7 @@ class main extends PluginBase {
 	 *
 	 * @return void
 	 */
-	public function onDisable(){
+	public function onDisable() {
 		$this->getLogger()->info(TextFormat::RED . "Eofla Server OS has been stopped.");
 	}
 	
