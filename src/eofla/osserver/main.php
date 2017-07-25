@@ -5,7 +5,6 @@ namespace eofla\osserver;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 use pocketmine\command\{Command, CommandSender};
-use pocketmine\command\CommandSender;
 
 class main extends PluginBase {
 	
