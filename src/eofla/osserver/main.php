@@ -43,7 +43,7 @@ class main extends PluginBase {
 	 *
 	 * @return bool
 	 */
-	public function onCommand(CommandSender $sender, Command $command, string $label, array $args) {
+	public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
 		if(strtolower($command->getName()) == "os") {
 			$operatesys = php_uname("s");
 	  	  	$verinfo = php_uname("v");
@@ -59,5 +59,6 @@ class main extends PluginBase {
 	  	        fwrite($log, "[" .  date("Y/m/d l h:i:s a") . "] " . $sender->getName() . " requested our server info.\n");
 	  	        fclose($log);
 		}
+		return true;
 	}
 }
